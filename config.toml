@@ -1,5 +1,5 @@
-baseURL = "/"
+baseURL = "www.examplesite.com"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Red Banksia"
 themesDir = "/themes/themes"
 theme = "hugo-serif-theme"
