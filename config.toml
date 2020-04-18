@@ -1,5 +1,4 @@
 baseURL = "www.examplesite.com"
 languageCode = "en-us"
 title = "Red Banksia"
-themesDir = "/themes/themes"
 theme = "hugo-serif-theme"
