@@ -10,7 +10,7 @@ theme = "hugo-serif-theme"
   google_tag_manager_id = ""
 
   [params.logo]
-    mobile = "images/RBlogo-32x37.png"
+    mobile = "images/redbanksia.png"
     standard  = "images/redbanksia.png"
     alt = "Red Banksia"
 
@@ -29,7 +29,7 @@ theme = "hugo-serif-theme"
   # Main Menu
   [[menu.main]]
     name = "Projects"
-    url = "/Services/"
+    url = "/services/"
       weight = 1
 
   [[menu.main]]

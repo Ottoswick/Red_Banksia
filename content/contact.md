@@ -5,7 +5,7 @@ layout: contact
 menu: 'main'
 ---
 
-Want to make the most out of your most valuable asset? Contact us by phone or email and speak to one of the team.  
+Want to get the most out of your most valuable asset? Contact us by phone or email and speak to one of the team.  
 
 | Day       | Opening Hours   |
 | --------- | --------------- |

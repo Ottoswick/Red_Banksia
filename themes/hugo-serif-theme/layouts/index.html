@@ -41,11 +41,11 @@
     {{ $services := where (where .Site.RegularPages "Type" "services") ".Params.featured" true }}
     {{ range first 6 (sort $services ".Params.weight") }}
     <div class="col-12 col-md-4 mb-1">
-      {{ .Render "services" }}
+      {{ .Render "summary" }}
     </div>
     {{ end }}
     <div class="col-12 text-center">
-      <a class="button button-primary" href="{{ "projects/" | relURL }}">View Projects</a>
+      <a class="button button-primary" href="{{ "services/" | relURL }}">View Projects</a>
     </div>
   </div>
 </div>
