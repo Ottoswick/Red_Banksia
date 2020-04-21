@@ -7,4 +7,4 @@ intro_image_hide_on_mobile: true
 
 # Red Banksia - a solution driven property company.
 
-## We work with landlords to achieve the best possible value from their assets, exemplified through our extensive track record in planning and development.
+## We work with home owners to achieve the best possible value from their assets, exemplified through our extensive track record in planning and development.

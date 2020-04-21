@@ -8,4 +8,4 @@ linkedinurl: "https://www.linkedin.com/in/sam-beagley-39499075/"
 weight: 3
 ---
 
-Sam manages the end-to-end life-cycle of borough, ward and site identiﬁcation. Sam prepares our targeted mail-out services and manages the initial discussions with any vendors looking to optimise the sale value of their land or property.
+Sam manages the end-to-end life-cycle of site identiﬁcation through to borough, ward and property. Sam prepares our targeted marketing campaign and manages the initial discussions with any property owners looking to optimise the sale value of their property. 

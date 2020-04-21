@@ -1,17 +1,17 @@
 [
   {
     "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "description": "New clients recieve an obligation-free consultation.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
     "title": "Certified Accountants",
-    "description": "All financial analysis are prepared by our Chartered Accountants.",
+    "description": "All financial analyses are prepared by our Chartered Accountants.",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
     "title": "Certified Planners",
-    "description": "We understand the boroughs appetite to approve planning applications.",
+    "description": "We understand the borough's appetite to approve planning applications.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]
