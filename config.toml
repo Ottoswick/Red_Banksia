@@ -10,7 +10,7 @@ theme = "hugo-serif-theme"
   google_tag_manager_id = ""
 
   [params.logo]
-    mobile = "images/redbanksia.png"
+    mobile = "images/rblogo.png"
     standard  = "images/redbanksia.png"
     alt = "Red Banksia"
 
