@@ -1,4 +1,4 @@
-baseURL = "www.examplesite.com"
+baseURL = "http://0.0.0.0:1313"
 languageCode = "en-us"
 title = "Red Banksia"
 theme = "hugo-serif-theme"
