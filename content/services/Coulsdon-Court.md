@@ -6,48 +6,66 @@ featured: true
 weight: 1
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+# Land rear of 1 & 2 Coulsdon Court Road, CR5 2LL
 
-## Ne verba patulosque numen vix libet
+![Coulsdon Court Road](/images/coulsdon-houses-front.png)
+- Freehold residential development
+- Excellent family housing location   
+- Site Area of 0.154 acres (0.062 hectares)
+- London Borough of Croydon (planning reference no. 20/00581/FUL):  A planning application has been submitted for demolition of existing garage and outbuildings, erection of four 4-bedroom 8-person terraced houses
+- Offers are invited on the site in the region of £800,000, subject to contract
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## Site
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+![Site](/images/coulsdon-plot.png)
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+The site area is 0.154 acres (0.062 hectares) located within the London Borough of Croydon; positioned on a corner plot fronting Coulsdon Road and Cearn Way.
 
-## Postquam tamen
+As existing, the site comprises rear garden land of No1 & 2 Coulsdon Court Road including a single garage accessible directly from Cearn Way.
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+## Location
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2493.56958864179!2d-0.12823634884417573!3d51.319042532178884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4875fdbb0e16acf3%3A0x4b5bb377f5dc948b!2s1%20Coulsdon%20Ct%20Rd%2C%20Coulsdon%20CR5%202LL!5e0!3m2!1sen!2suk!4v1587541345440!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+The site is situated in a leafy suburb surrounded by detached and semi-detached family dwellings with Coulsdon Manor Golf Course lying < 50m east.
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+Coulsdon town centre with its local amenities, shops and restaurants is located approx. 1.45 km (0.9 miles) west; Purley town centre approx. 2.41km (1.50 miles) northeast; Croydon town centre approx. 6.44 km (4.0 miles) northeast.
+
+South London Downs National Nature Reserve, the second largest in London within approx. 1km (0.62 miles) south west of the site (as the crow flies).
+
+## Connectivity
+
+The 466 bus route passes the site towards Purley and onwards to Croydon town centre via Brighton Road with journey times of approx. 7 and 20 minutes respectively.
+
+Coulsdon Town (0.7 miles) and Coulsdon South (1 mile) are the nearest railway stations with direct journey times of approx. 6 minutes to East Croydon station, 28 minutes to London Victoria, 21 minutes to London Bridge and 20 minutes to Gatwick Airport.
+
+## Planning
+
+*Planning Reference no. 20/00581/FUL*: Demolition of existing garage and outbuildings, erection of x4 terraced dwellings with associated car parking, vehicular accesses, landscaping, cycle parking and refuse storage.
+
+The planning application was validated 07th February 2020 and is currently awaiting decision. Offers are being invited subject to the grant of planning permission.
+
+### Schedule of accommodation
+
+Plot | Type | SQM (GIA) | SQFT (GIA)
+--- | --- | --- | ---
+House 1 | 4B8P | 142 | 1,528
+House 2 | 4B8P | 142 | 1,528
+House 3 | 4B8P | 142 | 1,528
+House 4 | 4B8P | 142 | 1,528
+Total |  | 568 | 6,112
+
+Note GIA = Gross Internal Area (Code of Measuring Practice, 6th Edition)
+
+### Floorplan
+
+![Floorplan](/images/coulsdon-floorplan.png)
+
+## Contact
+Please contact our agents at SHW to find out further information:
+
+Alexi Borg
+E: aborg@shw.co.uk  | T: 020 8662 2745
+
+Richard Plant
+E: rplant@shw.co.uk  | T: 020 8663 2718
