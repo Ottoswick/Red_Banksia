@@ -1,6 +1,6 @@
 ---
 title: "Coulsdon Court Road"
-date: 2018-11-18T12:33:46+10:00
+date: 2020-04-22
 draft: false
 featured: true
 weight: 1
@@ -25,8 +25,6 @@ As existing, the site comprises rear garden land of No1 & 2 Coulsdon Court Road 
 
 ## Location
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2493.56958864179!2d-0.12823634884417573!3d51.319042532178884!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4875fdbb0e16acf3%3A0x4b5bb377f5dc948b!2s1%20Coulsdon%20Ct%20Rd%2C%20Coulsdon%20CR5%202LL!5e0!3m2!1sen!2suk!4v1587541345440!5m2!1sen!2suk" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
-
 The site is situated in a leafy suburb surrounded by detached and semi-detached family dwellings with Coulsdon Manor Golf Course lying < 50m east.
 
 Coulsdon town centre with its local amenities, shops and restaurants is located approx. 1.45 km (0.9 miles) west; Purley town centre approx. 2.41km (1.50 miles) northeast; Croydon town centre approx. 6.44 km (4.0 miles) northeast.
@@ -45,6 +43,10 @@ Coulsdon Town (0.7 miles) and Coulsdon South (1 mile) are the nearest railway st
 
 The planning application was validated 07th February 2020 and is currently awaiting decision. Offers are being invited subject to the grant of planning permission.
 
+### Floorplan
+
+![Floorplan](/images/coulsdon-floorplan.png)
+
 ### Schedule of accommodation
 
 Plot | Type | SQM (GIA) | SQFT (GIA)
@@ -56,10 +58,6 @@ House 4 | 4B8P | 142 | 1,528
 Total |  | 568 | 6,112
 
 Note GIA = Gross Internal Area (Code of Measuring Practice, 6th Edition)
-
-### Floorplan
-
-![Floorplan](/images/coulsdon-floorplan.png)
 
 ## Contact
 Please contact our agents at SHW to find out further information:
