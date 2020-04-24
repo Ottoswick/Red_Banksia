@@ -5,6 +5,6 @@ intro_image_absolute: false # edit /assets/scss/components/_intro-image.scss for
 intro_image_hide_on_mobile: false
 ---
 
-# Red Banksia - maximising property potential.
+# Red Banksia - we maximise property potential.
 
 ## We work with property owners to achieve the best possible value from their assets, exemplified through our extensive track record in planning and development.
