@@ -20,7 +20,7 @@ We secured the site under and agreement with the owner to purchase the site upon
 
 # Financing
 
-Given the purchase is subject to planning permission, there are no upfront cash outlay to purchase of the site. Although Red Banksia incurs all costs associated with obtaining planning permission to develop the site. These costs are paid from Res Banksia retained earnings.
+Given the purchase is subject to planning permission, there are no upfront cash outlay to purchase of the site. Although Red Banksia incurs all costs associated with obtaining planning permission to develop the site. These costs are paid from Red Banksia retained earnings.
 
 Once planning consent is received, we will explore financing options for the site purchase and development.
 
