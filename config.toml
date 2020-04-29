@@ -11,7 +11,7 @@ theme = "hugo-serif-theme"
 
   [params.logo]
     mobile = "images/rblogo.png"
-    standard  = "images/redbanksia.png"
+    standard  = "images/redbanksia2.png"
     alt = "Red Banksia"
 
   [params.homepage_meta_tags]
