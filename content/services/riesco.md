@@ -11,14 +11,14 @@ weight: 5
 # Site
 
 - Residential property on a large site
-- Site X hectares
+- Site is 1.16 ha or 0.29 acre
 - Located 6 minutes from South Croydon train station, being 27 minutes to Victoria Station by train
 
 # Acquisition
 
 Agreed a "promotional contract" with the owner, whereby we split the profit from the development after a given sale price is returned to the owner.
 
-A simple example being where profits made over a strike price of £1m are split 50-50 between owner and Red Banksia, so that if a final sale of the developed site of £1.5m is achieved, £1.25m (£1m + £250k will be paid to the owner and £250k will go to Red Banksia.
+A simple example being where profits made over a strike price of £1m are split 50-50 between owner and Red Banksia, so that if a final sale of the developed site of £1.5m is achieved, £1.25m (£1m + £250k) will be paid to the owner and £250k will go to Red Banksia.
 
 # Financing
 
