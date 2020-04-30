@@ -22,7 +22,7 @@ A simple example being where profits made over a strike price of £1m are split 
 
 # Financing
 
-Under the promotional contract no upfront purchase for the asset is made, although Red Banksia incurs all costs associated with obtaining planning permission to develop the site. These costs are paid from Res Banksia retained earnings.
+Under the promotional contract no upfront purchase for the asset is made, although Red Banksia incurs all costs associated with obtaining planning permission to develop the site. These costs are paid from Red Banksia retained earnings.
 
 # Planning
 
