@@ -10,17 +10,17 @@ weight: 4
 
 # Site
 
-- Land to the rear of a residential property, an end of terrace house with unused backyard
+- Land to the rear of a residential property, a detached house with a large rear garden
 - Site is 240 m2 (0.02 ha, 0.06 acre)
 - Located in Caterham, the site is 2 minutes from Caterham station which is 49 minutes to London Bridge station by train
 
 # Acquisition
 
-We secured the site under and agreement with the owner to purchase the site upon achieving planning approval from the council to build a single dwelling.
+We secured the site under an agreement with the owner to purchase the site upon achieving planning approval from the council to build a single dwelling.
 
 # Financing
 
-Given the purchase is subject to planning permission, there are no upfront cash outlay to purchase of the site. Although Red Banksia incurs all costs associated with obtaining planning permission to develop the site. These costs are paid from Red Banksia retained earnings.
+Given the purchase is subject to planning permission, there is no upfront cash outlay to purchase of the site. Although Red Banksia incurs all costs associated with obtaining planning permission to develop the site. These costs are paid from Red Banksia retained earnings.
 
 Once planning consent is received, we will explore financing options for the site purchase and development.
 
