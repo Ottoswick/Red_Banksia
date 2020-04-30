@@ -28,7 +28,7 @@ Red Banksia obtained a bridging loan from LendInvest to secure the purchase
 
 # Planning
 
-Planning application approved for demolition of existing garage and outbuildings, erection of x4 terraced dwellings with associated car parking, vehicular accesses, landscaping, cycle parking and refuse storage.
+Planning application for demolition of existing garage and outbuildings, erection of x4 terraced dwellings with associated car parking, vehicular accesses, landscaping, cycle parking and refuse storage.
 
 ## Floorplan
 
