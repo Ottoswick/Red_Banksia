@@ -19,8 +19,8 @@ weight: 1
 
 - Contact initiated through our own direct marketing campaign
 - Purchase unconditional direct from vendor
-- Agreed purchase price estimated to be equivalent to circa 29% of existing houses current MV
-- Impact of the loss of land to the existing home owners property is negligible (potentially circa 2% reduction in MV)
+- Agreed purchase price estimated to be equivalent to circa 30% of existing houses current MV
+- Impact of the loss of land to the existing home owners property value is negligible (potentially circa 2% reduction in MV)
 
 # Financing
 
