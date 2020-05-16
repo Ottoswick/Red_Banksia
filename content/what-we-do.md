@@ -17,9 +17,9 @@ Examples in our current projects are [Court](/services/court/) and [Adolphus](/s
 
 # Why work with us?
 
-**Property owners**: we know you will only sell to us, or partner with us, if we generate more money for you than an estate agent sale would.
+Property owners: we know you will only sell to us, or partner with us, if we generate more money for you than an estate agent sale would.
 
-**Investors**: we know you will only work with us is if we generate more value for you than your other options.
+Investors: we know you will only work with us is if we generate more value for you than your other options.
 
 Our in house planning expert and seasoned developer will lead each project and explain our approach to you.
 
