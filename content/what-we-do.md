@@ -13,7 +13,7 @@ weight: 1
 
 Our internal planning and accounting team optimise the market value of property by identifying the development potential in residential and commercial properties. Through this process, we work with property owners to agree on a contract for the purchase of their property (or a portion of their property) which is typically above the current market price and is subject to our team pursuing development approval from the local council.
 
-Examples in our current projects are [Court](/services/court/) and [Adolphus](/services/riesco/).
+Examples in our current projects are [Court](/services/court/), [Coulsdon](/services/coulsdon-court/) and [Adolphus](/services/riesco/).
 
 # Why work with us?
 
