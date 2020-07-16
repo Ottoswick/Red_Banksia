@@ -22,5 +22,3 @@ Property owners: we know you will only sell to us, or partner with us, if we gen
 Investors: we know you will only work with us is if we generate more value for you than your other options.
 
 Our in house planning expert and seasoned developer will lead each project and explain our approach to you.
-
-We work with a reliable, responsive law firm who are responsive and reliable.
