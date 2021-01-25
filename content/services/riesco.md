@@ -2,7 +2,7 @@
 title: "Adolphus"
 date: 2020-04-24T
 featured: true
-draft: false
+draft: true
 weight: 5
 ---
 

@@ -19,16 +19,16 @@ weight: 1
 
 - Contact initiated through our own direct marketing campaign
 - Purchase unconditional direct from vendor
-- Agreed purchase price estimated to be equivalent to circa 30% of existing houses current MV
-- Impact of the loss of land to the existing home owners property value is negligible (potentially circa 2% reduction in MV)
+- Agreed purchase price estimated to be equivalent to circa 30% of existing houses their market value
+- Impact of the loss of land to the existing home owners property value is negligible (potentially circa 2% reduction in market value)
 
 # Financing
 
-Red Banksia obtained a bridging loan from LendInvest to secure the purchase
+Red Banksia obtained a bridging loan from LendInvest to secure the purchase.
 
 # Planning
 
-Planning application for demolition of existing garage and outbuildings, erection of x4 terraced dwellings with associated car parking, vehicular accesses, landscaping, cycle parking and refuse storage.
+Planning approved for demolition of existing garage and outbuildings, erection of x4 terraced dwellings with associated car parking, vehicular accesses, landscaping, cycle parking and refuse storage.
 
 ## Floorplan
 
@@ -36,7 +36,7 @@ Planning application for demolition of existing garage and outbuildings, erectio
 
 ## Schedule of accommodation
 
-Plot | Type | SQM (GIA) | SQFT (GIA)
+Plot | Type | GIA SQM | GIA SQF
 --- | --- | --- | ---
 House 1 | 4B8P | 142 | 1,528
 House 2 | 4B8P | 142 | 1,528
