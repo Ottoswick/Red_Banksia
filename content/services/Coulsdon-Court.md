@@ -19,7 +19,7 @@ weight: 1
 
 - Contact initiated through our own direct marketing campaign
 - Purchase unconditional direct from vendor
-- Agreed purchase price estimated to be equivalent to circa 30% of existing houses their market value
+- Agreed a purchase price equivalent to circa 30% of the market value for the existing house
 - Impact of the loss of land to the existing home owners property value is negligible (potentially circa 2% reduction in market value)
 
 # Financing
