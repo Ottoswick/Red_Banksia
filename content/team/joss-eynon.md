@@ -2,7 +2,7 @@
 title: "Joss Eynon"
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: "images/team/joss.png"
+image: "images/team/joss.jpg"
 jobtitle: "Acquisitions"
 linkedinurl: "https://www.linkedin.com/in/joss-eynon-214606176/"
 weight: 1
