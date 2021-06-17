@@ -8,7 +8,7 @@ featured: true
 draft: false
 weight: 4
 ---
-![Linnet](/images/linnet-floorplan.png)
+![Linnet](/images/linnet-birdseye.jpg)
 # Site
 - The site area is approximately 0.102 acres  or 413m2
 - Located within the London Borough of Croydon
@@ -23,16 +23,14 @@ weight: 4
 - Red Banksia incurs all costs associated with obtaining planning permission to develop the site. These costs are paid solely by Red Banksia, with no cost to the Vendor
 - We will explore our opportunities to develop the site using development finance when the outcome of our planning application is known
 # Planning
-Demolition of the existing dwelling and redevelopment of the site to provide a terrace of five two-storey, three-bedroom houses with accommodation within the roof space with associated refuse and cycle provision and landscaping.
+Demolition of the existing dwelling and redevelopment of the site to provide a terrace of three two-storey, four-bedroom houses with accommodation within the roof space with associated refuse and cycle provision and landscaping.
 ## Schedule of Accommodation
 
 Plot | Type | GIA SQM | GIA SQF
 --- | --- | --- | ---
-House 1 | 3B4P | 92 | 990
-House 2 | 3B4P | 92 | 990
-House 3 | 3B4P | 92 | 990
-House 4 | 3B4P | 92 | 990
-House 5 | 3B4P | 92 | 990
-Total |  | 460 | 4,951
+House 1 | 4B6P | 126 | 1,356
+House 2 | 4B6P | 126 | 1,356
+House 3 | 4B6P | 126 | 1,356
+Total |  | 378 | 4,068
 
 Note GIA = Gross Internal Area (Code of Measuring Practice, 6th Edition) and does not include communal areas.
